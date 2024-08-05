@@ -5,5 +5,5 @@ I'm a developer who likes **TypeScript**,**Go**, and **Python**. Always excited 
 
 ## 🤝 Find Me
 - 🌐 [Portfolio](https://royleedev.com)
-- 📧 [Email] (churlee12@gmail.com)
-- 🔵 [LinkedIn] (https://www.linkedin.com/in/roy-lee-cs123/)
+- 📧 [Email](churlee12@gmail.com)
+- 🔵 [LinkedIn](https://www.linkedin.com/in/roy-lee-cs123/)
