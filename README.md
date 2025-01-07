@@ -1,5 +1,7 @@
 I'm Roy, a Columbia sophomore majoring in Computer Science.
 
+Typescript, Python, Go
+
 Looking for money so I can drop out.
 
 - 📧 [Email me](mailto:churlee12@gmail.com)
