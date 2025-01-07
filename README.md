@@ -1,4 +1,7 @@
-I'm a developer who likes **TypeScript**, **Go**, and **Python**.
+I'm Roy, a Columbia sophomore majoring in Computer Science.
 
-- 📧 [Email](churlee12@gmail.com)
-- 🔵 [LinkedIn](https://www.linkedin.com/in/roy-lee-cs123/)
+Looking for money so I can drop out.
+
+- 📧 [Email me](mailto:churlee12@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/roy-lee-cs123/)
+- 🐦 [X Profile](https://x.com/ibttf)
