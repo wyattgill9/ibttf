@@ -1,6 +1,6 @@
 I'm Roy, a Columbia sophomore majoring in Computer Science.
 
-Typescript, Python, Go
+Go, Python, TypeScript
 
 - 📧 [Email me](mailto:churlee12@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/roy-lee-cs123/)
